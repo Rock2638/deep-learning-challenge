@@ -49,6 +49,7 @@ The purpose of this analysis was to use machine learning and neural networks, an
 
 The deep learning model created for Alphabet Soup demonstrated the ability to predict the success of charitable donations, achieving a final accuracy of 72.4%. The model architecture, consisting of three hidden layers and a dropout layer, was chosen to try and balance model complexity and overfitting. Unfortunately, the accuracy did not improve.
 
-**Recommendation:** While the deep learning model performed reasonably well, it did not achieve the target accuracy. A different model, such as a Random Forest or Gradient Boosting Machine (GBM), could be considered for this classification problem. These models are often more interpretable and can handle categorical data more efficiently without requiring extensive preprocessing. 
+**Recommendation:** 
+While the deep learning model performed reasonably well, it did not achieve the target accuracy. A different model, such as a Random Forest or Gradient Boosting Machine (GBM), could be considered for this classification problem. These models are often more interpretable and can handle categorical data more efficiently without requiring extensive preprocessing. 
 By exploring these alternative models, the Alphabet Soup charity could achieve higher accuracy and better understand the key factors driving the success of their donation campaigns.
 
