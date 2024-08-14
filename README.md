@@ -6,7 +6,7 @@
 
 The purpose of this analysis was to use machine learning and neural networks, and the features in the provided dataset, to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup charity. The goal was to achieve a predictive accuracy of over 75%, leveraging deep learning techniques to handle the complexities and subtleties in the data.
 
-The results have been Saved in the folowing files which can be found in the Deep Learning folder:
+The results have been saved in the folowing files which can be found in the Deep Learning folder:
  - **AlphabetSoupCharity.h5** and **AlphabetSoupCharity_h5.ipynb**
  - **AlphabetSoupCharity_Optimisation.h5** and **AlphabetSoupCharity_Optimisation_h5.ipynb**
 
